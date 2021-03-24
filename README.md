@@ -54,9 +54,12 @@ Macam-Macam code teks:
 
 ![SOAL](https://user-images.githubusercontent.com/56239989/112276063-dc1eb780-8cb2-11eb-8255-6c99605fe788.jpg)
 
-#JAWABAN
+# JAWABAN
 1. EXPERIMENT SAYA
 ![EXPERIMENT](https://user-images.githubusercontent.com/56239989/112276305-2acc5180-8cb3-11eb-8e9e-2a4420fa430e.jpg)
-
-3. 
+( Alhamdulilah tidak ada eror karena saya pernah membuat blog dengan base HTML )
+2. Tag p untuk membuat PARAGRAF baru DENGAN JARAK 
+   sedangkan br untuk membuat LINE baru dibawahnya tanpa JARAK
 4. 
+5. 
+6. 
