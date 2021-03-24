@@ -7,6 +7,7 @@
 2. Membuat TITLE
 
 (Kita bisa membuat TITLE WEB dengan "<title> </title>" pada code )
+
 ![TITLE 1](https://user-images.githubusercontent.com/56239989/112272449-ca3b1580-8cae-11eb-8642-3da26074c6c7.jpg)
 
 3. Membuat Paragraf
