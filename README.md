@@ -55,7 +55,10 @@ Macam-Macam code teks:
 ![SOAL](https://user-images.githubusercontent.com/56239989/112276063-dc1eb780-8cb2-11eb-8255-6c99605fe788.jpg)
 
 # JAWABAN
-1. EXPERIMENT SAYA
+1. Experiment saya adalah membuat Teks Berjalan
+   - Teks GAGAL Berjalan/bergerak saat ada KESALAHAN code
+   - ![EXPERIMENT FAIL](https://user-images.githubusercontent.com/56239989/112277055-f4db9d00-8cb3-11eb-9b81-ee30cd87e15e.jpg)
+
 ![EXPERIMENT](https://user-images.githubusercontent.com/56239989/112276305-2acc5180-8cb3-11eb-8e9e-2a4420fa430e.jpg)
 ( Alhamdulilah tidak ada eror karena saya pernah membuat blog dengan base HTML )
 
