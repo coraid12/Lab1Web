@@ -40,8 +40,12 @@ Macam-Macam code teks:
 
 ## 6. Menyisipkan GAMBAR
 
+(Dengan code src= maka program akan mencari gampar pada folder dengan judul yang sesuai)
+
 ![GAMBAR](https://user-images.githubusercontent.com/56239989/112273203-a88e5e00-8caf-11eb-8f1d-b3abbdbab56f.jpg)
 
 ## 7.Menambahkan HYPERLINK
+
+(Dengan code a href= + LINK WEB maka link akan dimunculkan dan ditambah > KLIK DISINI (sebagai judul yang bisa di klik)
 
 ![LINK](https://user-images.githubusercontent.com/56239989/112273374-dc698380-8caf-11eb-9f06-0e025514a6f9.jpg)
