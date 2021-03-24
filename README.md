@@ -67,4 +67,12 @@ Macam-Macam code teks:
 3. - title / Title Tag adalah balon teks yang muncul saat sebuah gambar disentuh kursor mouse tanpa diklik. Fungsinya memberi tahu pengunjung.
    - alt / Alternative Tag keterangan singkat sebuah gambar yang berfungsi untuk memberi tahu robot mesin pencari tentang keberadaannya
 4. Untuk Width dan height Wajib diisi jika memang ingin disesuaikan ukuranya namun jika tidak diisi pun tidak apa apa dan dia akan memunculkan ukuran asli dari file tersebut
-5. 
+5. - _blank   = untuk membuka link di tab baru
+   - _self    = untuk membuka link di frame link itu berada. ini merupakan setelan dasar link jika pada elemen link tidak diberi atribut target
+   - _top     = untuk membuka link di frame paling atas (paling luar).
+                secara simpel-nya :
+                jika di website(1) di dalamnya ada website(2) lalu di website(2) di dalamnya ada website (3) lalu di website (3) ini ada link dan kita klik, maka link akan   terbuka di website(1)
+   - _parrent = untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada.
+                secara simple-nya begini :
+jika di website(1) di dalamnya ada website(2) lalu di website(2) ini ada link dan kita klik, maka link akan terbuka di website(1)
+
