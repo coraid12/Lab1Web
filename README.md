@@ -58,8 +58,10 @@ Macam-Macam code teks:
 1. EXPERIMENT SAYA
 ![EXPERIMENT](https://user-images.githubusercontent.com/56239989/112276305-2acc5180-8cb3-11eb-8e9e-2a4420fa430e.jpg)
 ( Alhamdulilah tidak ada eror karena saya pernah membuat blog dengan base HTML )
-2. Tag p untuk membuat PARAGRAF baru DENGAN JARAK 
-   sedangkan br untuk membuat LINE baru dibawahnya tanpa JARAK
+
+2. - Tag p untuk membuat PARAGRAF baru DENGAN JARAK 
+   - sedangkan br untuk membuat LINE baru dibawahnya tanpa JARAK
+   
 4. 
 5. 
 6. 
