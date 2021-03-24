@@ -12,7 +12,7 @@
 
 ## 3. Membuat Paragraf
 
-(Dengan code " <p> " kita bisa membuat paragraf)
+(Dengan code " p " kita bisa membuat paragraf)
   
 ![PARAGRAF](https://user-images.githubusercontent.com/56239989/112272571-f8b8f080-8cae-11eb-9236-084f1148d8ed.jpg)
 
@@ -25,16 +25,16 @@ Dengan code <h+angka> kita bisa membuat judul dan mengetahui judul keberapa yang
 ## 5. Memformat TEKS
 
 (Macam-Macam code teks: 
-"<b>" - Bold text
-"<strong>" - Important text
-"<i>" - Italic text
-"<em>" - Emphasized text
-"<mark>" - Marked text
-"<small>" - Smaller text
-"<del>" - Deleted text
-"<ins>" - Inserted text
-"<sub>" - Subscript text
-"<sup>" - Superscript text)
+"b" - Bold text
+"strong" - Important text
+"i" - Italic text
+"em" - Emphasized text
+"mark" - Marked text
+"small" - Smaller text
+"del" - Deleted text
+"ins" - Inserted text
+"sub" - Subscript text
+"sup" - Superscript text)
 
 ![FONT](https://user-images.githubusercontent.com/56239989/112273068-81379100-8caf-11eb-9f39-f3d3d3d51c48.jpg)
 
