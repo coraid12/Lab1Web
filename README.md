@@ -46,6 +46,10 @@ Macam-Macam code teks:
 
 ## 7.Menambahkan HYPERLINK
 
-(Dengan code a href= + LINK WEB maka link akan dimunculkan dan ditambah > KLIK DISINI (sebagai judul yang bisa di klik)
+(Dengan code a href= + LINK WEB maka link akan dimunculkan dan ditambah > KLIK DISINI </a> (sebagai judul yang bisa di klik)
 
 ![LINK](https://user-images.githubusercontent.com/56239989/112273374-dc698380-8caf-11eb-9f06-0e025514a6f9.jpg)
+
+# SOAL
+
+![SOAL](https://user-images.githubusercontent.com/56239989/112276063-dc1eb780-8cb2-11eb-8255-6c99605fe788.jpg)
