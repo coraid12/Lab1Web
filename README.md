@@ -12,7 +12,7 @@
 
 ## 3. Membuat Paragraf
 
-(Dengan code "<p>" kita bisa membuat paragraf)
+(Dengan code " <p> " kita bisa membuat paragraf)
   
 ![PARAGRAF](https://user-images.githubusercontent.com/56239989/112272571-f8b8f080-8cae-11eb-9236-084f1148d8ed.jpg)
 
