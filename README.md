@@ -12,5 +12,14 @@ Langkah Praktikum HTML Dasar
 ===================================================================================
 ![JUDUL](https://user-images.githubusercontent.com/56239989/112272715-1f772700-8caf-11eb-9d5b-e7967dbc207e.jpg)
 
-7. 
-8. 
+5. Memformat TEKS
+===================================================================================
+![FONT](https://user-images.githubusercontent.com/56239989/112273068-81379100-8caf-11eb-9f39-f3d3d3d51c48.jpg)
+
+6. Menyisipkan GAMBAR
+===================================================================================
+![GAMBAR](https://user-images.githubusercontent.com/56239989/112273203-a88e5e00-8caf-11eb-8f1d-b3abbdbab56f.jpg)
+
+7.Menambahkan HYPERLINK
+===================================================================================
+![LINK](https://user-images.githubusercontent.com/56239989/112273374-dc698380-8caf-11eb-9f06-0e025514a6f9.jpg)
