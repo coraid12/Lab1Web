@@ -1,8 +1,8 @@
 **Langkah Praktikum HTML Dasar**
 
 1. Membuat file baru
-==
-dengan menggunakan nama lab1_tag_dasar.html disimpan menggunakan extensi HTML
+
+(dengan menggunakan nama lab1_tag_dasar.html disimpan menggunakan extensi HTML)
 
 ===================================================================================
 2. Membuat TITLE
