@@ -58,9 +58,8 @@ Macam-Macam code teks:
 1. Experiment saya adalah membuat Teks Berjalan
    - Teks GAGAL Berjalan/bergerak saat ada KESALAHAN code
    - ![EXPERIMENT FAIL](https://user-images.githubusercontent.com/56239989/112277055-f4db9d00-8cb3-11eb-9b81-ee30cd87e15e.jpg)
-
-![EXPERIMENT](https://user-images.githubusercontent.com/56239989/112276305-2acc5180-8cb3-11eb-8e9e-2a4420fa430e.jpg)
-( Alhamdulilah tidak ada eror karena saya pernah membuat blog dengan base HTML )
+   - Saat Berhasil Teks akan bergerak bersama Tulisan dibawahnya
+   - ![EXPERIMENT](https://user-images.githubusercontent.com/56239989/112276305-2acc5180-8cb3-11eb-8e9e-2a4420fa430e.jpg)
 
 2. - Tag p untuk membuat PARAGRAF baru DENGAN JARAK 
    - sedangkan br untuk membuat LINE baru dibawahnya tanpa JARAK
