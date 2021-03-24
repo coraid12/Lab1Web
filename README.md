@@ -18,23 +18,23 @@
 
 ## 4. Menambahkan JUDUL
 
-Dengan code <h+angka> kita bisa membuat judul dan mengetahui judul keberapa yang muncul contoh : "<h1>" maka judul pertama yang akan muncul)
+Dengan code <h+angka> kita bisa membuat judul dan mengetahui judul keberapa yang muncul contoh : "h1" maka judul pertama yang akan muncul)
   
 ![JUDUL](https://user-images.githubusercontent.com/56239989/112272715-1f772700-8caf-11eb-9d5b-e7967dbc207e.jpg)
 
 ## 5. Memformat TEKS
 
-(Macam-Macam code teks: 
-"b" - Bold text
-"strong" - Important text
-"i" - Italic text
-"em" - Emphasized text
-"mark" - Marked text
-"small" - Smaller text
-"del" - Deleted text
-"ins" - Inserted text
-"sub" - Subscript text
-"sup" - Superscript text)
+Macam-Macam code teks: 
+1. "b" - Bold text
+2. "strong" - Important text
+3. "i" - Italic text
+4. "em" - Emphasized text
+5. "mark" - Marked text
+6. "small" - Smaller text
+7. "del" - Deleted text
+8. "ins" - Inserted text
+9. "sub" - Subscript text
+10. "sup" - Superscript text
 
 ![FONT](https://user-images.githubusercontent.com/56239989/112273068-81379100-8caf-11eb-9f39-f3d3d3d51c48.jpg)
 
