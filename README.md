@@ -4,9 +4,8 @@
 
 (dengan menggunakan nama lab1_tag_dasar.html disimpan menggunakan extensi HTML)
 
-===================================================================================
 2. Membuat TITLE
-===================================================================================
+
 ![TITLE 1](https://user-images.githubusercontent.com/56239989/112272449-ca3b1580-8cae-11eb-8642-3da26074c6c7.jpg)
 
 3. Membuat Paragraf
