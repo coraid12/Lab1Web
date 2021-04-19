@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BELAJAR HTML</title>
+    <nav>
+        <a href="https://animemasterid.blogspot.com">WEB ANIME</a>
+        <a href="https://myanimelist.net/">My Anime List</a>
+    </nav>
+    <hr>   
+    <marquee><b>--TEKS INI BERJALAN TEKS INI BERJALAN-- </b></marquee> 
+    <marquee bgcolor="black" style="font-family: Arial; font-size: 20px;"><span style="background-color: rgb(0, 0, 0); color: red;"><b>MATA KULIAH PEMROGRAMAN WEB</b></span></marquee><br />
+<br />
+</head>
+<body>
+    <h1>Judul Paragraf 1</h1>
+    <p> Saya sedang belajar HTML dasar <br> <b>TEST FONT TEBAL </b>ENTER 1
+    <h3>Judul Paragraf 2</h3>
+    <p> Belajar HTML dasar</p>
+    </p>
+    <h2>Menambahkan GAMBAR</h2>
+    <img src="STAR1.jpg" width="200" height="100" title="Logo STARDUST">
+
+
+    
+    </nav>
+</body>
+</html>
